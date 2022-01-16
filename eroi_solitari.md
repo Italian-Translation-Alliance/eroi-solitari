@@ -30,7 +30,7 @@ Così, qualcuno che brandisce una ascia +1 con un bonus di Forza ai danni +1 tir
 
 Queste regole sui dadi di danno sono usate per tutti gli effetti che infliggono una serie di danni casuali alla vittima. Palle di fuoco, cadute, trappole a freccia, rocce che cadono e qualsiasi altra cosa che tira dadi di danno userà l'interpretazione data sopra su quei tiri.
 
-Se un effetto fa un ammontare fisso di danni, allora viene fatto un punto di danno ogni quattro punti indicati nel testo. Quindi, se l'avventura afferma che toccare una statua di bronzo maledetta infligge automaticamente 10 punti di danno elettrico al profonatore, solo 2 punti di danno vengono fatti allo sfortunato eroe. I caltropi che infliggono automaticamente 1 punto di danno a chi li attraversa si arrotondano a zero, essendo un pericolo troppo banale per minacciare un eroe solitario.
+Se un effetto fa un ammontare fisso di danni, allora viene fatto un punto di danno ogni quattro punti indicati nel testo. Quindi, se l'avventura afferma che toccare una statua di bronzo maledetta infligge automaticamente 10 punti di danno elettrico al profanatore, solo 2 punti di danno vengono fatti allo sfortunato eroe. I caltropi che infliggono automaticamente 1 punto di danno a chi li attraversa si arrotondano a zero, essendo un pericolo troppo banale per minacciare un eroe solitario.
 
 ### La Seconda Regola: Infliggere Danni
 I danni ricevuti dai PG vengono tolti dai loro punti ferita come da Prima Regola. Se un guerriero con 6 punti ferita viene colpito dalla lancia di un orco, l'orco tira 1d6. Se il risultato è un 4, per esempio, allora viene inflitto un punto di danno e al guerriero solitario rimangono 5 punti ferita.
