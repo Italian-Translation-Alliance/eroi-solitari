@@ -1,3 +1,6 @@
+# Eroi Solitari
+## Condurre avventure Vecchia Scuola con un solo personaggio
+
 Ogni Arbitro prima o poi deve affrontare la mancanza di giocatori. Può darsi che metà del gruppo chiami appena prima della sessione o che una particolare partita possa interessare solo uno o due altri giocatori. La maggior parte delle volte un Arbitro annullerà semplicemente la sessione o tirerà fuori i giochi di carte, ma altre volte un Arbitro desidererà di giocare anche con meno giocatori del solito.
 
 *Eroi Solitari* fornisce una serie di semplici modifiche alle regole che vi permettono di coinvolgere solo uno o due eroi in un'avventura Vecchia Scuola di livello appropriato con qualche speranza di successo. Queste modifiche non richiedono di cambiare la scheda personaggio o convertire i moduli. Supportano l'avventura e la scheda personaggio esistenti permettendo al PG di affrontare sfide e nemici che normalmente richiederebbero un intero gruppo di avventurieri.
@@ -39,7 +42,7 @@ I danni ricevuti dai PNG contano come un *dado vita completo* per ogni punto. Qu
 
 I dadi ferita dei mostri sono arrotondati al numero intero più vicino. Quindi, le creature con ½ dado vita, 1-1 dado vita e 1+2 dado vita contano tutte come creature da 1 dado vita. Si assume che i PNG di alto livello abbiano dadi vita pari al loro livello.
 
-Quando combatte contro nemici con dadi vita uguali o inferiori, il PG può tirare un ***Dado Mischia*** che rappresenta i suoi potenti colpi, pugni, calci, morsi, tiro di oggetti e altre prodezze assortite o incantesimi di combattimento a corto raggio verso un nemico che non lo superi chiaramente in abilità. Questo è un dado separato che può essere tirato una volta per round. Questo dado fa sempre danno indipendentemente dal tiro per colpire, quindi è meglio usare un dado di qualche colore diverso dagli altri in modo che possa essere facilmente identificato. Con *La Scatola Bianca* il *Dado Mischia* è pari a 1d6. In altri giochi Vecchia Scuola, che differenziano il dado vita di ciascuna classe, il *Dado Mischia* è pari alla taglia del dado vita (i guerrieri tirano 1d8, i chierici, i ladri e altre classi non strettamente marziali tirano 1d6 e i maghi e altri incantatori tirano 1d4).
+Quando combatte contro nemici con dadi vita uguali o inferiori, il PG può tirare un ***Dado Mischia*** che rappresenta i suoi potenti colpi, pugni, calci, morsi, tiro di oggetti e altre prodezze assortite o incantesimi di combattimento a corto raggio verso un nemico che non lo superi chiaramente in abilità. Questo è un dado separato che può essere tirato una volta per round. Questo dado fa sempre danno indipendentemente dal tiro per colpire, quindi è meglio usare un dado di qualche colore diverso dagli altri in modo che possa essere facilmente identificato. Il *Dado Mischia* è pari alla taglia del dado vita (i guerrieri tirano 1d8, i chierici, i ladri e altre classi non strettamente marziali tirano 1d6 e i maghi e altri incantatori tirano 1d4).
 
 Il danno di un Dado Mischia può essere inflitto solo ai nemici con un numero di dadi vita uguale o inferiore a quello dell'eroe - i nemici più esperti sono troppo furbi per essere mutilati senza un attacco mirato. L'eccezione è il Dado Mischia dei maghi. I loro dardi arcani possono danneggiare qualsiasi nemico, anche uno con dadi vita maggiori.
 
@@ -115,14 +118,14 @@ Alcune avventure sono scritte in modo da richiedere in pratica più di un avvent
 ## Infliggere danni
 Quando interpretate i dadi dei danni, non considerate i soliti totali. Invece, considerate ogni dado rispetto alla tabella sottostante. Se avete un bonus al vostro tiro danni, aggiungetelo a un dado a vostra scelta prima di confrontarlo con la tabella.
 
-#### Tabella 34: Riduzione dei danni
+#### Riduzione dei danni
 
-| Risultato  | Danni subiti     |
-|------------|------------------|
-| 1 o meno   | Nessun danno     |
-| 2 a 5      | 1 punto di danno |
-| 6 a 9      | 2 punti di danno |
-| 10 o più   | 4 punti di danno |
+| Risultato | Danni subiti     |
+|-----------|------------------|
+| 1 o meno  | Nessun danno     |
+| Da 2 a 5  | 1 punto di danno |
+| Da 6 a 9  | 2 punti di danno |
+| 10 o più  | 4 punti di danno |
 
 Tutti i dadi dei danni sono interpretati in questo modo, inclusi i danni inflitti da incantesimi, trappole e pericoli ambientali. Quindi, una palla di fuoco da 5d6 causerebbe da 0 a 10 punti di danno.
 
@@ -153,7 +156,7 @@ Il potente samurai Shinji Haraldsen si trova invischiato con sei guerrieri gobli
 
 Shinji è un guerriero di livello 1 con 5 punti ferita, un modificatore di Forza +1, un'ascia+1 e una CA 2 grazie alla sua armatura di piastre e allo scudo.
 
-Contro di lui ci sono sei goblin con 1 DV ciascuno, AC 7 e lance che provocano 1d6 danni. La sacerdotessa-strega ha più esperienza avendo 3 DV, AC 6 e un pugnale che provoca 1d4 danni.
+Contro di lui ci sono sei goblin con 1 DV ciascuno, CA 7 e lance che provocano 1d6 danni. La sacerdotessa-strega ha più esperienza avendo 3 DV, CA 6 e un pugnale che provoca 1d4 danni.
 
 Shinji vince l'iniziativa e decide di abbattere qualche goblin per primo. Tira per colpire su CA 7 e ci riesce. Tira 1d6 per il danno dell'ascia e ottiene un quattro; aggiungendo la sua Forza e il bonus magico dell'ascia si ottiene sei, per cui la tabella mostra 2 punti di danno inflitti ai goblin. Questo uccide uno di loro completamente e il danno in eccesso si riversa per ucciderne un altro a portata della sua ascia macchiata di sangue.
 
@@ -164,3 +167,155 @@ I goblin sono spinti dalla sacerdotessa e si rifiutano di fuggire dal terribile 
 La strega sacerdotessa ora scatena la sua magia, colpendo Shinji con un incantesimo di sonno inesorabile. Questo metterebbe fine alla storia di Shinji seduta stante, quindi l'Arbitro gli permette di Sfuggire alla Morte. Shinji tira 1d4 come dado per il danno e prende 1 danno mentre si scrolla di dosso l'incantesimo.
 
 Duramente provato, Shinji continua a combattere, questa volta colpendo la sacerdotessa con la sua ascia, infliggendo altri 2 punti di danno. La strega rimane con 1 PF mentre il Dado Mischia di Shinji uccide un altro goblin. La vittoria sarà sua o le sue ossa rosicchiate ingialliranno nelle Terre Selvagge?
+
+## Licenza
+
+DESIGNATION OF PRODUCT IDENTITY
+nil
+
+DESIGNATION OF OPEN GAME CONTENT
+All text, with the exception of material specifically excluded in the declaration of product identity, is open game content.
+
+OPEN GAME LICENSE Version 1.0a
+The following text is the property of Wizards of the Coast, Inc. and is Copyright
+2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+
+1. Definitions: (a)"Contributors" means the copyright and/or trademark owners
+who have contributed Open Game Content; (b)"Derivative Material" means
+copyrighted material including derivative works and translations (including into
+other computer languages), potation, modification, correction, addition, extension,
+upgrade, improvement, compilation, abridgment or other form in which an
+existing work may be recast, transformed or adapted; (c) "Distribute" means to
+reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise
+distribute; (d)"Open Game Content" means the game mechanic and includes the
+methods, procedures, processes and routines to the extent such content does not
+embody the Product Identity and is an enhancement over the prior art and any
+additional content clearly identified as Open Game Content by the Contributor,
+and means any work covered by this License, including translations and derivative
+works under copyright law, but specifically excludes Product Identity. (e) "Product
+Identity" means product and product line names, logos and identifying marks
+including trade dress; artifacts; creatures characters; stories, storylines, plots,
+thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and
+other visual or audio representations; names and descriptions of characters, spells,
+enchantments, personalities, teams, personas, likenesses and special abilities; places,
+locations, environments, creatures, equipment, magical or supernatural abilities or
+effects, logos, symbols, or graphic designs; and any other trademark or registered
+trademark clearly identified as Product identity by the owner of the Product
+Identity, and which specifically excludes the Open Game Content; (f) "Trademark"
+means the logos, names, mark, sign, motto, designs that are used by a Contributor
+to identify itself or its products or the associated products contributed to the Open
+Game License by the Contributor (g) "Use", "Used" or "Using" means to use,
+Distribute, copy, edit, format, modify, translate and otherwise create Derivative
+Material of Open Game Content. (h) "You" or "Your" means the licensee in terms
+of this agreement.
+
+2. The License: This License applies to any Open Game Content that contains a
+notice indicating that the Open Game Content may only be Used under and in
+terms of this License. You must affix such a notice to any Open Game Content
+that you Use. No terms may be added to or subtracted from this License except as
+described by the License itself. No other terms or conditions may be applied to any
+Open Game Content distributed using this License.
+
+3. Offer and Acceptance: By Using the Open Game Content You indicate Your
+acceptance of the terms of this License.
+
+4. Grant and Consideration: In consideration for agreeing to use this License, the
+Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license
+with the exact terms of this License to Use, the Open Game Content.
+
+5. Representation of Authority to Contribute: If You are contributing original
+material as Open Game Content, You represent that Your Contributions are Your
+original creation and/or You have sufficient rights to grant the rights conveyed by
+this License.
+
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE
+portion of this License to include the exact text of the COPYRIGHT NOTICE
+of any Open Game Content You are copying, modifying or distributing, and You
+must add the title, the copyright date, and the copyright holder's name to the
+COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+
+7. Use of Product Identity: You agree not to Use any Product Identity, including
+as an indication as to compatibility, except as expressly licensed in another,
+independent Agreement with the owner of each element of that Product Identity.
+You agree not to indicate compatibility or co-adaptability with any Trademark or
+Registered Trademark in conjunction with a work containing Open Game Content
+except as expressly licensed in another, independent Agreement with the owner of
+such Trademark or Registered Trademark. The use of any Product Identity in Open
+Game Content does not constitute a challenge to the ownership of that Product
+Identity. The owner of any Product Identity used in Open Game Content shall
+retain all rights, title and interest in and to that Product Identity.
+
+8. Identification: If you distribute Open Game Content You must clearly indicate
+which portions of the work that you are distributing are Open Game Content.
+
+9. Updating the License: Wizards or its designated Agents may publish updated
+versions of this License. You may use any authorized version of this License to copy,
+modify and distribute any Open Game Content originally distributed under any
+version of this License.
+
+10. Copy of this License: You MUST include a copy of this License with every copy
+of the Open Game Content You Distribute.
+
+11. Use of Contributor Credits: You may not market or advertise the Open Game
+Content using the name of any Contributor unless You have written permission
+from the Contributor to do so.
+
+12. Inability to Comply: If it is impossible for You to comply with any of the terms
+of this License with respect to some or all of the Open Game Content due to
+statute, judicial order, or governmental regulation then You may not Use any Open
+Game Material so affected.
+
+13. Termination: This License will terminate automatically if You fail to comply
+with all terms herein and fail to cure such breach within 30 days of becoming aware
+of the breach. All sublicenses shall survive the termination of this License.
+
+14. Reformation: If any provision of this License is held to be unenforceable, such
+provision shall be reformed only to the extent necessary to make it enforceable.
+
+15. COPYRIGHT NOTICE
+Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
+
+System Reference Document Copyright 2000, Wizards of the Coast, Inc.; Authors
+Jonathon Tweet, Monte Cook, Skip Williams, based on original material by E.
+Gary Gygax and Dave Arneson.
+
+System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.;
+Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins,
+David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid,
+James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
+
+Modern System Reference Document Copyright 2002-2004, Wizards of the
+Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, Eric
+Cagle, David Noonan, Stan!, Christopher Perkins, Rodney Thompson, and JD
+Wiker, based on material by Jonathan Tweet, Monte Cook, Skip Williams,
+Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins, and
+JD Wiker.
+
+Castles & Crusades: Players Handbook, Copyright 2004, Troll Lord Games;
+Authors Davis Chenault and Mac Golden.
+
+Cave Cricket from the Tome of Horrors, copyright 2002, Necromancer Games,
+Inc.; Authors Scott Greene and Clark Peterson, based on original material by Gary
+Gygax.
+
+Crab, Monstrous from the Tome of Horrors, copyright 2002, Necromancer
+Games, Inc.; Author Scott Greene, based on original material by Gary Gygax.
+
+Fly, Giant from the Tome of Horrors, copyright 2002, Necromancer Games, Inc.;
+Author Scott Greene, based on original material by Gary Gygax.
+
+Golem, Wood from the Tome of Horrors, copyright 2002, Necromancer Games,
+Inc.; Authors Scott Greene and Patrick Lawinger.
+
+Kamadan from the Tome of Horrors, copyright 2002, Necromancer Games, Inc.;
+Author Scott Greene, based on original material by Nick Louth.
+
+Rot Grub from the Tome of Horrors, Copyright 2002, Necromancer Games, Inc.;
+Authors Scott Greene and Clark Peterson, based on original material by Gary
+Gygax
+
+Labyrinth Lord™ Copyright 2007-2009, Daniel Proctor. Author Daniel Proctor.
+
+Red Tide Copyright 2011, Kevin Crawford. Author Kevin Crawford.
+
+Eroi Solitari 2022, traduzione di Roberto Bisceglie
